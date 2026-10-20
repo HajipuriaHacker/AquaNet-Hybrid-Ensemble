@@ -49,3 +49,13 @@ The system splits the input tensor ($X \in \mathbb{R}^{224 \times 224 \times 3}$
 ## 💾 Dataset
 The model was trained on the **BD Fish & Shrimp Dataset**, utilizing a strict 70/20/10 (Train/Val/Test) split across 5,887 images. 
 * *Dataset Link:* [Hugging Face Repository](https://huggingface.co/datasets/Saon110/bd-fish-disease-dataset)
+## 👥 Authors & Contributors
+
+**Core Engineering Team (Equal Contribution)**
+* **Ayush Singh** – *Deep Learning Engineer & Co-Author* (Focused on Hybrid Transformer architecture design, model ensembling logic, and IEEE paper structuring)
+* **Madhumita Khan** – *Deep Learning Engineer & Co-Author* (Focused on CNN backbone engineering, optimizer tuning, and building the robust training/evaluation pipelines)
+* **Sourabh Kumar** – *Deep Learning Engineer & Co-Author* (Focused on Explainable AI (Grad-CAM) implementation, OpenCV feature mapping, and SOTA benchmarking)
+
+**Academic Supervisors & Co-Authors**
+* **Md Ashifuddin Mondal** – *Project Mentor*
+* **Papri Ghosh, Debrupa Pal, Subhram Das** – *Academic Supervisors*
