@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Hybrid Transformer (Model A),94.61%,91.79%,91.16%,91.09%
+EfficientNetV2 (Model B),95.45%,92.23%,92.03%,92.01%
+Feature-Fused Ensemble (Ours),96.30%,93.89%,93.55%,93.56%
